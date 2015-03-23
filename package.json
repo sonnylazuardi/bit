@@ -1,0 +1,24 @@
+{
+  "name": "busintime",
+  "version": "1.0.0",
+  "description": "bus in time server ",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sonnylazuardi@github.com/sonnylazuardi/bit.git"
+  },
+  "keywords": [
+    "bus",
+    "in",
+    "time"
+  ],
+  "author": "sonnylazuardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonnylazuardi/bit/issues"
+  },
+  "homepage": "https://github.com/sonnylazuardi/bit"
+}
